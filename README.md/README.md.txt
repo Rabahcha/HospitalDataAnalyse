@@ -1,0 +1,1 @@
+Goal: create a mini project to manipulate patient and visualize basic statistics
